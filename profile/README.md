@@ -10,9 +10,33 @@ We can bring in facilities where professional dietician and trainer, list there 
 
 # About the Fitcel Repository
 It has been divided into 3 individual repositories namely:
-1.  fitcel_frontend(https://github.com/Fitcel/fitcel-frontend)
-2.  fitcel_backend(https://github.com/Fitcel/fitcel-backend)
-3.  fitcel_ui(https://github.com/Fitcel/fitcel-ui)
+1.  [fitcel_ui](https://github.com/Fitcel/fitcel-ui)
+2.  [fitcel_frontend](https://github.com/Fitcel/fitcel-frontend)
+3.  [fitcel_backend](https://github.com/Fitcel/fitcel-backend)
+
+# Fitcel UI
+Link to the [Figma Design](https://www.figma.com/proto/lQsktqNWNMltLdJzGZGS8P/fitcell?node-id=93-304&scaling=scale-down&page-id=0%3A1&starting-point-node-id=93%3A304)
+
+# Fitcel Frontend
+## Technology and Libraries Used:
+1. Flutter
+2. [Health Api](https://www.bing.com/ck/a?!&&p=5baa4f020cb03ec6JmltdHM9MTcwNjIyNzIwMCZpZ3VpZD0zOGI5NDUzNy01M2UxLTZmODQtMWQ0MC01N2RiNTJlNzZlM2MmaW5zaWQ9NTIxNw&ptn=3&ver=2&hsh=3&fclid=38b94537-53e1-6f84-1d40-57db52e76e3c&psq=health+api+pub+flutter&u=a1aHR0cHM6Ly9wdWIuZGV2L3BhY2thZ2VzL2hlYWx0aA&ntb=1)
+3. 
+
+# Fitcel Backend
+## Technology and Libraries Used:
+1. Golang
+2. Echo (REST)
+3. MySQL
+4. Firebase (Storage Buckets)
+5. GORM
+
+# Conclusion
+## Key Features of Fitcel
+1. Subscription Based System: People can subscribe to diet and workout plans. They can update thier daily progress, and view thier daily plans in the app just by subscribing to a diet or workout.
+2. Celebrity Diets: Offers diets of various famous celebrities that have been proven to be benificial.
+3. Celebrity Workouts: Offers workouts of various famous celebrities that have been proven to be benificial.
+4. Calories Counter: Inbuilt Calorie counter. People can count calories of the food they're eating just by typing the food name and portion size. This way can they maintain thier daily calorie intake.
 
 <!--
 
