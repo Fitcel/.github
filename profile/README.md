@@ -21,7 +21,7 @@ Link to the [Figma Design](https://www.figma.com/proto/lQsktqNWNMltLdJzGZGS8P/fi
 ## Technology and Libraries Used:
 1. Flutter
 2. [Health Api](https://www.bing.com/ck/a?!&&p=5baa4f020cb03ec6JmltdHM9MTcwNjIyNzIwMCZpZ3VpZD0zOGI5NDUzNy01M2UxLTZmODQtMWQ0MC01N2RiNTJlNzZlM2MmaW5zaWQ9NTIxNw&ptn=3&ver=2&hsh=3&fclid=38b94537-53e1-6f84-1d40-57db52e76e3c&psq=health+api+pub+flutter&u=a1aHR0cHM6Ly9wdWIuZGV2L3BhY2thZ2VzL2hlYWx0aA&ntb=1)
-3. 
+3. [Nutrition API](https://api-ninjas.com/api/nutrition) 
 
 # Fitcel Backend
 ## Technology and Libraries Used:
