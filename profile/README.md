@@ -8,7 +8,11 @@ Fitcel serves as an application to find the health plans such as diet and workou
 ## What is the future of Fitcel?
 We can bring in facilities where professional dietician and trainer, list there products which can be availed by the users.
 
-
+# About the Fitcel Repository
+It has been divided into 3 individual repositories namely:
+1.  fitcel_frontend(https://github.com/Fitcel/fitcel-frontend)
+2.  fitcel_backend(https://github.com/Fitcel/fitcel-backend)
+3.  fitcel_ui(https://github.com/Fitcel/fitcel-ui)
 
 <!--
 
